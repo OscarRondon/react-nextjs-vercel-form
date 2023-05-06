@@ -3,6 +3,11 @@ this project have the intent to test the new functionalities of Vercel datastore
 
 - npx create-next-app
 - Vercel [https://vercel.com/]
+  . vercel link [link the project with vercel project and github repo]
+  . vercel env pull .env.development.local
+    .- copy and paste the env variables if didn't came on dowloaded file
+  . npm install @vercel/kv
+- Sonner Notifications [https://sonner.emilkowal.ski/]
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
