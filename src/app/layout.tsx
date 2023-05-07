@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Nextjs - React - Vercel - Fomr',
+  title: 'Nextjs - React - Vercel - Form',
   description: 'This project have the intent to test the new functionalities of Vercel datastorep'
 }
 

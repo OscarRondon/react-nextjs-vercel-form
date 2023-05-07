@@ -1,4 +1,5 @@
-import { Form } from '@/componets/Form'
+// import { Form } from '@/componets/Form'
+import { Form } from '@/componets/PostgreForm'
 
 
 export default function Home () {
